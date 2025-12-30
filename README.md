@@ -229,3 +229,4 @@ Built with ❤️ using React and Node.js
 
 **Note**: Make sure PostgreSQL is running before starting the backend server. Refer to `Backend/DATABASE_SETUP.md` for detailed database setup instructions.
 
+
